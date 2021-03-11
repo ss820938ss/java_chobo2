@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Properties Example XML</comment>
+<entry key="user">user_mysql_study</entry>
+<entry key="password">rootroot</entry>
+<entry key="url">jdbc:mysql://localhost:3306/mysql_study?useSSL=false</entry>
+</properties>
